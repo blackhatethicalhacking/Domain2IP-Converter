@@ -1,5 +1,5 @@
 #!/bin/bash
-# Written by SaintDrug for Black Hat Ethical Hacking
+# Written by SaintDrug for Black Hat Ethical Hacking - 2021 Copyrights All Rights Reserved
 # With this script, you can convert domain lists to resolved IP lists without duplicates.
 # Usage: ./convert_d2ip.sh [domain-list-file] [output-file]
 
